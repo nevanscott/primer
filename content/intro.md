@@ -1,6 +1,7 @@
 ---
 title: "Introduction"
 date: 2017-12-09T10:13:14+01:00
+chapter: 0
 ---
 
 When I was a kid, I had a good friend who usually had fairly different interests from me. I spent my free time writing stories, crocheting coasters, and trying to make marionettes. He liked to build things in his room out of blocks, wire together homemade radios, and build contraptions outside in his yard. In my family, a special occasion meant going to the ballet or the opera. One time  his family invited me to join them at a monster truck derby.

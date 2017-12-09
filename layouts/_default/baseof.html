@@ -15,7 +15,7 @@
       <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
       <hr>
       <ol>
-        {{ range first 10 .Site.RegularPages }}
+        {{ range (.Site.RegularPages.ByParam "chapter") }}
             <li>{{ .Render "summary"}}</li>
         {{ end }}
       </ol>
