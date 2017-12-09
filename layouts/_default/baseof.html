@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <link rel="stylesheet" href="https://code.cdn.mozilla.net/fonts/fira.css">
     <style>
       body {
         font-family: Georgia, serif;
@@ -12,10 +13,11 @@
         margin: auto;
         padding: 0 1em;
       }
-      h1, h2 {
-        font-family: serif;
+      h1 {
+        font-family: "Fira Sans", sans-serif;
+        font-weight: 900;
       }
-      h3, h4, h5, h6 {
+      h2, h3, h4, h5, h6 {
         font-family: sans-serif;
       }
       hr {
